@@ -11,14 +11,10 @@ SO THAT I can keep a list of books to purchase
 </code>
 
 ## Table of Contents
-* [Installation](#installation) 
 * [Usage](#usage) 
 * [Links](#link)
 * [License](#license) 
 * [Questions](#questions)
-
-### Instructions
-*
 
 ### Usage
 Type the title of a book that interests you into the search bar field. After clicking the search button, click the save button of books you want to keep in your wishlist.  
