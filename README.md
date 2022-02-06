@@ -20,12 +20,12 @@ SO THAT I can keep a list of books to purchase
 Type the title of a book that interests you into the search bar field. After clicking the search button, click the save button of books you want to keep in your wishlist.  
 
 ### Link to Github Repository
-[It's Lit-erature]()
+[It's Lit-erature](https://github.com/sumwillrodt/its-literature)
 
-![Screenshot]()
+![Screenshot](https://drive.google.com/file/d/1ddSVegqNU0rsfsQG5Rz4_I-N3mqiHnV0/view?usp=sharing)
 
 ### Link to Deployed Application
-[Heroku - It's Lit-erature]()
+[Heroku - It's Lit-erature](https://its-literature-booksearch.herokuapp.com/)
  
 ### License
 MIT
